@@ -1559,11 +1559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ioana\\Documents\\projects\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\Ioana\\Documents\\projects\\RestAPI\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\Ioana\\Documents\\projects\\Catalog\\Catalog.csproj",
+      "projectPath": "C:\\Users\\Ioana\\Documents\\projects\\RestAPI\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\Ioana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ioana\\Documents\\projects\\Catalog\\obj\\",
+      "outputPath": "C:\\Users\\Ioana\\Documents\\projects\\RestAPI\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
